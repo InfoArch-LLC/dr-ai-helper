@@ -1,0 +1,17 @@
+# Ignorar carpetas __pycache__ y archivos de bytecode compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de entorno virtual
+_venv/
+._venv/
+*._venv
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar configuraciones específicas del IDE
+.idea/
+.vscode/
+*.swp
+*.swo
